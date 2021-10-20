@@ -26,9 +26,9 @@ body {
   font-size: 2.5rem; 
 }
 
-author {
+.author {
   font-family: 'Crimson Text', serif;
-  font-size: 4.5rem;
+  font-size: 1.5rem;
   font-style: italic;
 }
 
